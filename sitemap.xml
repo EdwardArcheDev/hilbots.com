@@ -6,34 +6,22 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>https://www.hilbots.com/images/cloud1.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://www.hilbots.com/images/cloud4.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://www.hilbots.com/images/purple%20shape.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://www.hilbots.com/images/purple%20shape_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://www.hilbots.com/images/datos.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>https://www.hilbots.com/images/green%20shape.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://www.hilbots.com/images/cloud181x31.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://www.hilbots.com/images/cloud199x38.png</image:loc>
+      <image:loc>https://www.hilbots.com/images/cloud4.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://www.hilbots.com/images/logo-192.png</image:loc>
+      <image:loc>https://www.hilbots.com/images/cloud1.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://www.hilbots.com/images/logo-192_2x.png</image:loc>
+      <image:loc>https://www.hilbots.com/images/purple%20shape.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.hilbots.com/images/purple%20shape_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://www.hilbots.com/images/bnb-fb.png</image:loc>
@@ -43,6 +31,9 @@
     </image:image>
     <image:image>
       <image:loc>https://www.hilbots.com/images/bitmex.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.hilbots.com/images/bitmex_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://www.hilbots.com/images/ftx.png</image:loc>
@@ -57,7 +48,16 @@
       <image:loc>https://www.hilbots.com/images/bb_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://www.hilbots.com/images/bitmex_2x.png</image:loc>
+      <image:loc>https://www.hilbots.com/images/logo-192.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.hilbots.com/images/logo-192_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.hilbots.com/images/cloud199x38.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.hilbots.com/images/datos.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -79,8 +79,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://www.hilbots.com/eth---eos-bot.html</loc>
-    <lastmod>2021-03-11</lastmod>
+    <loc>https://www.hilbots.com/login.html</loc>
+    <lastmod>2021-03-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -91,8 +91,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://www.hilbots.com/login.html</loc>
-    <lastmod>2021-03-09</lastmod>
+    <loc>https://www.hilbots.com/profile-enter.html</loc>
+    <lastmod>2021-03-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -115,7 +115,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://www.hilbots.com/profile.html</loc>
+    <loc>https://www.hilbots.com/pay-enter.html</loc>
     <lastmod>2021-03-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -127,8 +127,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://www.hilbots.com/pay.html</loc>
-    <lastmod>2021-03-09</lastmod>
+    <loc>https://www.hilbots.com/eth---eos-bot.html</loc>
+    <lastmod>2021-03-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -136,6 +136,96 @@
     </image:image>
     <image:image>
       <image:loc>https://www.hilbots.com/images/logo-192_2x.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.hilbots.com/eth-bot-enter.html</loc>
+    <lastmod>2021-03-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>https://www.hilbots.com/images/logo-192.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.hilbots.com/images/logo-192_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.hilbots.com/images/eth%20logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.hilbots.com/images/eth%20logo_2x.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.hilbots.com/eth---eos-bot-enter.html</loc>
+    <lastmod>2021-03-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>https://www.hilbots.com/images/logo-192.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.hilbots.com/images/logo-192_2x.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.hilbots.com/hilbots-enter.html</loc>
+    <lastmod>2021-03-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>https://www.hilbots.com/images/green%20shape.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.hilbots.com/images/cloud181x31.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.hilbots.com/images/cloud4.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.hilbots.com/images/cloud1.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.hilbots.com/images/purple%20shape.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.hilbots.com/images/purple%20shape_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.hilbots.com/images/bnb-fb.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.hilbots.com/images/bnb-fb_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.hilbots.com/images/bitmex.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.hilbots.com/images/bitmex_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.hilbots.com/images/ftx.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.hilbots.com/images/ftx_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.hilbots.com/images/bb.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.hilbots.com/images/bb_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.hilbots.com/images/logo-192.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.hilbots.com/images/logo-192_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.hilbots.com/images/cloud199x38.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.hilbots.com/images/datos.png</image:loc>
     </image:image>
   </url>
 </urlset>

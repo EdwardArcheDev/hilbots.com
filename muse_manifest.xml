@@ -1,111 +1,150 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://www.hilbots.com" resolutions="1x,2x" timestamp="1615494951523">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://www.hilbots.com" resolutions="1x,2x" timestamp="1615501051398">
   <folder name="css">
     <file name="site_global.css" crc="4038565194"/>
-    <file name="eth-bot.css" crc="4275458745" ref="eth-bot"/>
-    <file name="index.css" crc="423041457" ref="index"/>
-    <file name="eth---eos-bot.css" crc="458636616" ref="eth---eos-bot"/>
-    <file name="login.css" crc="41017096" ref="login"/>
+    <file name="eth---eos-bot-enter.css" crc="3981920386" ref="eth---eos-bot-enter"/>
     <file name="register.css" crc="4060858779" ref="register"/>
-    <file name="profile.css" crc="3907991510" ref="profile"/>
-    <file name="pay.css" crc="504073269" ref="pay"/>
+    <file name="eth-bot.css" crc="3797438066" ref="eth-bot"/>
+    <file name="eth-bot-enter.css" crc="4202390331" ref="eth-bot-enter"/>
+    <file name="hilbots-enter.css" crc="87311690" ref="hilbots-enter"/>
+    <file name="pay-enter.css" crc="4263191685" ref="pay-enter"/>
+    <file name="login.css" crc="41017096" ref="login"/>
+    <file name="eth---eos-bot.css" crc="3813662376" ref="eth---eos-bot"/>
+    <file name="profile-enter.css" crc="4152329958" ref="profile-enter"/>
+    <file name="index.css" crc="51082925" ref="index"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:eth-bot:eth---eos-bot:login:register:profile:pay"/>
-    <file name="museutils.js" crc="3803043152" ref="index:eth-bot:eth---eos-bot:login:register:profile:pay"/>
-    <file name="whatinput.js" crc="86476730" ref="index:eth-bot:eth---eos-bot:login:register:profile:pay"/>
-    <file name="museconfig.js" crc="4153641093" ref="index:eth-bot:eth---eos-bot:login:register:profile:pay"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:eth-bot:eth---eos-bot:login:register:profile:pay"/>
-    <file name="require.js" crc="4157109226" ref="index:eth-bot:eth---eos-bot:login:register:profile:pay"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:eth-bot:login:profile-enter:register:pay-enter:eth---eos-bot:eth-bot-enter:eth---eos-bot-enter:hilbots-enter"/>
+    <file name="museutils.js" crc="3803043152" ref="index:eth-bot:login:profile-enter:register:pay-enter:eth---eos-bot:eth-bot-enter:eth---eos-bot-enter:hilbots-enter"/>
+    <file name="whatinput.js" crc="86476730" ref="index:eth-bot:login:profile-enter:register:pay-enter:eth---eos-bot:eth-bot-enter:eth---eos-bot-enter:hilbots-enter"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:eth-bot:login:profile-enter:register:pay-enter:eth---eos-bot:eth-bot-enter:eth---eos-bot-enter:hilbots-enter"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:eth-bot:login:profile-enter:register:pay-enter:eth---eos-bot:eth-bot-enter:eth---eos-bot-enter:hilbots-enter"/>
+    <file name="require.js" crc="4157109226" ref="index:eth-bot:login:profile-enter:register:pay-enter:eth---eos-bot:eth-bot-enter:eth---eos-bot-enter:hilbots-enter"/>
   </folder>
   <folder name="images">
     <file name="hilbots-favicon.ico" crc="4099569896" ref="index"/>
-    <file name="blank.gif" crc="4208392903" ref="index:eth-bot:eth---eos-bot:login:register:pay:profile"/>
-    <file name="u5336.png" crc="159246191" ref="index"/>
-    <file name="u5336_2x.png" crc="4053369965" ref="index"/>
-    <file name="u5336-r.png" crc="159246191" ref="index"/>
-    <file name="u5336-r_2x.png" crc="4053369965" ref="index"/>
-    <file name="u5343.png" crc="3846996727" ref="index"/>
-    <file name="u5343_2x.png" crc="490159853" ref="index"/>
-    <file name="u5343-r.png" crc="3846996727" ref="index"/>
-    <file name="u5343-r_2x.png" crc="490159853" ref="index"/>
-    <file name="favicon.ico" crc="4099569896" ref="eth-bot:login:register:pay:profile"/>
     <file name="u5348-6.png" crc="4072257917" ref="index"/>
     <file name="u5348-6_2x.png" crc="4136025737" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:eth-bot:login:profile-enter:register:pay-enter:eth---eos-bot:eth-bot-enter:eth---eos-bot-enter:hilbots-enter"/>
     <file name="u5352.png" crc="290482208" ref="index"/>
     <file name="u5352_2x.png" crc="3956391947" ref="index"/>
     <file name="u5352-r.png" crc="290482208" ref="index"/>
     <file name="u5352-r_2x.png" crc="3956391947" ref="index"/>
-    <file name="cloud1.png" crc="3952483463" seo="true" ref="index">
+    <file name="green shape.png" crc="3919273099" seo="true" ref="index:hilbots-enter">
       <caption webpage="index" alt=""/>
+      <caption webpage="hilbots-enter" alt=""/>
     </file>
-    <file name="cloud4.png" crc="510697134" seo="true" ref="index">
+    <file name="cloud181x31.png" crc="185479149" seo="true" ref="index:hilbots-enter">
       <caption webpage="index" alt=""/>
+      <caption webpage="hilbots-enter" alt=""/>
     </file>
-    <file name="purple shape.png" crc="297057326" seo="true" ref="index">
+    <file name="cloud4.png" crc="510697134" seo="true" ref="index:hilbots-enter">
       <caption webpage="index" alt=""/>
-    </file>
-    <file name="purple shape_2x.png" crc="3911723629" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="datos.png" crc="45787237" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="green shape.png" crc="3919273099" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="cloud181x31.png" crc="185479149" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="cloud199x38.png" crc="509086536" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+      <caption webpage="hilbots-enter" alt=""/>
     </file>
     <file name="u5504-4.png" crc="4173512825" ref="index"/>
     <file name="u5504-4_2x.png" crc="204801394" ref="index"/>
-    <file name="logo-192.png" crc="3954758658" seo="true" ref="index:eth-bot:eth---eos-bot:login:register:pay:profile">
-      <caption webpage="profile" alt=""/>
+    <file name="cloud1.png" crc="3952483463" seo="true" ref="index:hilbots-enter">
+      <caption webpage="index" alt=""/>
+      <caption webpage="hilbots-enter" alt=""/>
+    </file>
+    <file name="purple shape.png" crc="297057326" seo="true" ref="index:hilbots-enter">
+      <caption webpage="index" alt=""/>
+      <caption webpage="hilbots-enter" alt=""/>
+    </file>
+    <file name="purple shape_2x.png" crc="3911723629" seo="true" ref="index:hilbots-enter">
+      <caption webpage="index" alt=""/>
+      <caption webpage="hilbots-enter" alt=""/>
+    </file>
+    <file name="bnb-fb.png" crc="4139282285" seo="true" ref="index:hilbots-enter">
+      <caption webpage="index" alt=""/>
+      <caption webpage="hilbots-enter" alt=""/>
+    </file>
+    <file name="bnb-fb_2x.png" crc="4146757082" seo="true" ref="index:hilbots-enter">
+      <caption webpage="index" alt=""/>
+      <caption webpage="hilbots-enter" alt=""/>
+    </file>
+    <file name="bitmex.png" crc="159573563" seo="true" ref="index:hilbots-enter">
+      <caption webpage="index" alt=""/>
+      <caption webpage="hilbots-enter" alt=""/>
+    </file>
+    <file name="bitmex_2x.png" crc="4107533172" seo="true" ref="index:hilbots-enter">
+      <caption webpage="index" alt=""/>
+      <caption webpage="hilbots-enter" alt=""/>
+    </file>
+    <file name="ftx.png" crc="3865315688" seo="true" ref="index:hilbots-enter">
+      <caption webpage="index" alt=""/>
+      <caption webpage="hilbots-enter" alt=""/>
+    </file>
+    <file name="ftx_2x.png" crc="303883745" seo="true" ref="index:hilbots-enter">
+      <caption webpage="index" alt=""/>
+      <caption webpage="hilbots-enter" alt=""/>
+    </file>
+    <file name="bb.png" crc="365912659" seo="true" ref="index:hilbots-enter">
+      <caption webpage="index" alt=""/>
+      <caption webpage="hilbots-enter" alt=""/>
+    </file>
+    <file name="bb_2x.png" crc="3945487851" seo="true" ref="index:hilbots-enter">
+      <caption webpage="index" alt=""/>
+      <caption webpage="hilbots-enter" alt=""/>
+    </file>
+    <file name="logo-192.png" crc="3954758658" seo="true" ref="index:eth-bot:login:profile-enter:register:pay-enter:eth---eos-bot:eth-bot-enter:eth---eos-bot-enter:hilbots-enter">
       <caption webpage="register" alt=""/>
       <caption webpage="eth-bot" alt=""/>
-      <caption webpage="eth---eos-bot" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="pay" alt=""/>
-      <caption webpage="eth-bot---copia" alt=""/>
+      <caption webpage="eth---eos-bot-enter" alt=""/>
       <caption webpage="login" alt=""/>
+      <caption webpage="profile-enter" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="eth---eos-bot" alt=""/>
+      <caption webpage="hilbots-enter" alt=""/>
+      <caption webpage="pay-enter" alt=""/>
+      <caption webpage="eth-bot-enter" alt=""/>
     </file>
-    <file name="logo-192_2x.png" crc="56539045" seo="true" ref="index:eth-bot:eth---eos-bot:login:register:pay:profile">
-      <caption webpage="profile" alt=""/>
+    <file name="logo-192_2x.png" crc="56539045" seo="true" ref="index:eth-bot:login:profile-enter:register:pay-enter:eth---eos-bot:eth-bot-enter:eth---eos-bot-enter:hilbots-enter">
       <caption webpage="register" alt=""/>
       <caption webpage="eth-bot" alt=""/>
-      <caption webpage="eth---eos-bot" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="pay" alt=""/>
-      <caption webpage="eth-bot---copia" alt=""/>
+      <caption webpage="eth---eos-bot-enter" alt=""/>
       <caption webpage="login" alt=""/>
-    </file>
-    <file name="bnb-fb.png" crc="4139282285" seo="true" ref="index">
+      <caption webpage="profile-enter" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="eth---eos-bot" alt=""/>
+      <caption webpage="hilbots-enter" alt=""/>
+      <caption webpage="pay-enter" alt=""/>
+      <caption webpage="eth-bot-enter" alt=""/>
     </file>
-    <file name="bnb-fb_2x.png" crc="4146757082" seo="true" ref="index">
+    <file name="u5336_states.png" crc="159246191" ref="index"/>
+    <file name="u5336_states_2x.png" crc="4053369965" ref="index"/>
+    <file name="u5336_states-r.png" crc="159246191" ref="index"/>
+    <file name="u5336_states-r_2x.png" crc="4053369965" ref="index"/>
+    <file name="u5781_states.png" crc="221404226" ref="index"/>
+    <file name="u5781_states_2x.png" crc="3793999858" ref="index"/>
+    <file name="u5781_states-r.png" crc="221404226" ref="index"/>
+    <file name="u5781_states-r_2x.png" crc="3793999858" ref="index"/>
+    <file name="u5784_states.png" crc="3821624089" ref="index"/>
+    <file name="u5784_states_2x.png" crc="464504365" ref="index"/>
+    <file name="u5784_states-r.png" crc="3821624089" ref="index"/>
+    <file name="u5784_states-r_2x.png" crc="464504365" ref="index"/>
+    <file name="cloud199x38.png" crc="509086536" seo="true" ref="index:hilbots-enter">
       <caption webpage="index" alt=""/>
+      <caption webpage="hilbots-enter" alt=""/>
     </file>
-    <file name="bitmex.png" crc="159573563" seo="true" ref="index">
+    <file name="u5343.png" crc="3846996727" ref="index"/>
+    <file name="u5343_2x.png" crc="490159853" ref="index"/>
+    <file name="u5343-r.png" crc="3846996727" ref="index"/>
+    <file name="u5343-r_2x.png" crc="490159853" ref="index"/>
+    <file name="datos.png" crc="45787237" seo="true" ref="index:hilbots-enter">
       <caption webpage="index" alt=""/>
-    </file>
-    <file name="ftx.png" crc="3865315688" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="ftx_2x.png" crc="303883745" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="bb.png" crc="365912659" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="bb_2x.png" crc="3945487851" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+      <caption webpage="hilbots-enter" alt=""/>
     </file>
     <file name="u5598-4.png" crc="3892242738" ref="index"/>
     <file name="u5598-4_2x.png" crc="4025398338" ref="index"/>
     <file name="u5607-4.png" crc="3827423012" ref="index"/>
     <file name="u5607-4_2x.png" crc="4130197110" ref="index"/>
+    <file name="u5625-4.png" crc="384411561" ref="index"/>
+    <file name="u5625-4_2x.png" crc="105767447" ref="index"/>
+    <file name="u5628-4.png" crc="4136286117" ref="index"/>
+    <file name="u5628-4_2x.png" crc="462570324" ref="index"/>
+    <file name="u5631-4.png" crc="120955638" ref="index"/>
+    <file name="u5631-4_2x.png" crc="94209461" ref="index"/>
     <file name="u5652-4.png" crc="402251610" ref="index"/>
     <file name="u5652-4_2x.png" crc="4027735007" ref="index"/>
     <file name="u5653-4.png" crc="217439892" ref="index"/>
@@ -138,20 +177,6 @@
     <file name="u5729_2x.png" crc="3956391947" ref="index"/>
     <file name="u5729-r.png" crc="290482208" ref="index"/>
     <file name="u5729-r_2x.png" crc="3956391947" ref="index"/>
-    <file name="u5737.png" crc="159246191" ref="index"/>
-    <file name="u5737_2x.png" crc="4053369965" ref="index"/>
-    <file name="u5737-r.png" crc="159246191" ref="index"/>
-    <file name="u5737-r_2x.png" crc="4053369965" ref="index"/>
-    <file name="u5739.png" crc="3846996727" ref="index"/>
-    <file name="u5739_2x.png" crc="490159853" ref="index"/>
-    <file name="u5739-r.png" crc="3846996727" ref="index"/>
-    <file name="u5739-r_2x.png" crc="490159853" ref="index"/>
-    <file name="u5625-4.png" crc="384411561" ref="index"/>
-    <file name="u5625-4_2x.png" crc="105767447" ref="index"/>
-    <file name="u5628-4.png" crc="4136286117" ref="index"/>
-    <file name="u5628-4_2x.png" crc="462570324" ref="index"/>
-    <file name="u5631-4.png" crc="120955638" ref="index"/>
-    <file name="u5631-4_2x.png" crc="94209461" ref="index"/>
     <file name="u5746-4.png" crc="328149634" ref="index"/>
     <file name="u5746-4_2x.png" crc="281654491" ref="index"/>
     <file name="u5749-4.png" crc="404731472" ref="index"/>
@@ -166,40 +191,40 @@
     <file name="u5761-4_2x.png" crc="4107171927" ref="index"/>
     <file name="u5764-4.png" crc="4092324779" ref="index"/>
     <file name="u5764-4_2x.png" crc="36751978" ref="index"/>
-    <file name="bitmex_2x.png" crc="4107533172" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="u5781.png" crc="221404226" ref="index"/>
-    <file name="u5781_2x.png" crc="3793999858" ref="index"/>
-    <file name="u5781-r.png" crc="221404226" ref="index"/>
-    <file name="u5781-r_2x.png" crc="3793999858" ref="index"/>
-    <file name="u5784.png" crc="3821624089" ref="index"/>
-    <file name="u5784_2x.png" crc="464504365" ref="index"/>
-    <file name="u5784-r.png" crc="3821624089" ref="index"/>
-    <file name="u5784-r_2x.png" crc="464504365" ref="index"/>
-    <file name="u5793.png" crc="159246191" ref="eth-bot"/>
-    <file name="u5793_2x.png" crc="4053369965" ref="eth-bot"/>
-    <file name="u5793-r.png" crc="159246191" ref="eth-bot"/>
-    <file name="u5793-r_2x.png" crc="4053369965" ref="eth-bot"/>
-    <file name="u5796.png" crc="221404226" ref="eth-bot"/>
-    <file name="u5796_2x.png" crc="3793999858" ref="eth-bot"/>
-    <file name="u5796-r.png" crc="221404226" ref="eth-bot"/>
-    <file name="u5796-r_2x.png" crc="3793999858" ref="eth-bot"/>
-    <file name="u5797.png" crc="3821624089" ref="eth-bot"/>
-    <file name="u5797_2x.png" crc="464504365" ref="eth-bot"/>
-    <file name="u5797-r.png" crc="3821624089" ref="eth-bot"/>
-    <file name="u5797-r_2x.png" crc="464504365" ref="eth-bot"/>
+    <file name="u5737_states.png" crc="159246191" ref="index"/>
+    <file name="u5737_states_2x.png" crc="4053369965" ref="index"/>
+    <file name="u5737_states-r.png" crc="159246191" ref="index"/>
+    <file name="u5737_states-r_2x.png" crc="4053369965" ref="index"/>
+    <file name="u5739.png" crc="3846996727" ref="index"/>
+    <file name="u5739_2x.png" crc="490159853" ref="index"/>
+    <file name="u5739-r.png" crc="3846996727" ref="index"/>
+    <file name="u5739-r_2x.png" crc="490159853" ref="index"/>
+    <file name="favicon.ico" crc="4099569896" ref="eth-bot:pay-enter"/>
+    <file name="u5793_states.png" crc="159246191" ref="eth-bot"/>
+    <file name="u5793_states_2x.png" crc="4053369965" ref="eth-bot"/>
+    <file name="u5793_states-r.png" crc="159246191" ref="eth-bot"/>
+    <file name="u5793_states-r_2x.png" crc="4053369965" ref="eth-bot"/>
+    <file name="u5796_states.png" crc="221404226" ref="eth-bot"/>
+    <file name="u5796_states_2x.png" crc="3793999858" ref="eth-bot"/>
+    <file name="u5796_states-r.png" crc="221404226" ref="eth-bot"/>
+    <file name="u5796_states-r_2x.png" crc="3793999858" ref="eth-bot"/>
+    <file name="u5797_states.png" crc="3821624089" ref="eth-bot"/>
+    <file name="u5797_states_2x.png" crc="464504365" ref="eth-bot"/>
+    <file name="u5797_states-r.png" crc="3821624089" ref="eth-bot"/>
+    <file name="u5797_states-r_2x.png" crc="464504365" ref="eth-bot"/>
     <file name="u5799.png" crc="3846996727" ref="eth-bot"/>
     <file name="u5799_2x.png" crc="490159853" ref="eth-bot"/>
     <file name="u5799-r.png" crc="3846996727" ref="eth-bot"/>
     <file name="u5799-r_2x.png" crc="490159853" ref="eth-bot"/>
     <file name="u5820-4.png" crc="324358005" ref="eth-bot"/>
     <file name="u5820-4_2x.png" crc="3914541007" ref="eth-bot"/>
-    <file name="eth logo.png" crc="4042256611" seo="true" ref="eth-bot">
+    <file name="eth logo.png" crc="4042256611" seo="true" ref="eth-bot:eth-bot-enter">
       <caption webpage="eth-bot" alt=""/>
+      <caption webpage="eth-bot-enter" alt=""/>
     </file>
-    <file name="eth logo_2x.png" crc="36239476" seo="true" ref="eth-bot">
+    <file name="eth logo_2x.png" crc="36239476" seo="true" ref="eth-bot:eth-bot-enter">
       <caption webpage="eth-bot" alt=""/>
+      <caption webpage="eth-bot-enter" alt=""/>
     </file>
     <file name="u5834.png" crc="531944814" ref="eth-bot"/>
     <file name="u5834_2x.png" crc="4174313757" ref="eth-bot"/>
@@ -223,12 +248,12 @@
     <file name="u5866-4_2x.png" crc="54901933" ref="eth-bot"/>
     <file name="u5898-4.png" crc="475618429" ref="eth-bot"/>
     <file name="u5898-4_2x.png" crc="258020087" ref="eth-bot"/>
+    <file name="u5931-4.png" crc="36747560" ref="eth-bot"/>
+    <file name="u5931-4_2x.png" crc="294513860" ref="eth-bot"/>
     <file name="u5926.png" crc="531944814" ref="eth-bot"/>
     <file name="u5926_2x.png" crc="4174313757" ref="eth-bot"/>
     <file name="u5926-r.png" crc="531944814" ref="eth-bot"/>
     <file name="u5926-r_2x.png" crc="4174313757" ref="eth-bot"/>
-    <file name="u5931-4.png" crc="36747560" ref="eth-bot"/>
-    <file name="u5931-4_2x.png" crc="294513860" ref="eth-bot"/>
     <file name="u5934-4.png" crc="3932661221" ref="eth-bot"/>
     <file name="u5934-4_2x.png" crc="4089036009" ref="eth-bot"/>
     <file name="u5937-4.png" crc="4077483498" ref="eth-bot"/>
@@ -267,6 +292,22 @@
     <file name="u6376_2x.png" crc="4195425586" ref="login"/>
     <file name="u6376-r.png" crc="60580650" ref="login"/>
     <file name="u6376-r_2x.png" crc="230898655" ref="login"/>
+    <file name="u6693.png" crc="159246191" ref="profile-enter"/>
+    <file name="u6693_2x.png" crc="4053369965" ref="profile-enter"/>
+    <file name="u6693-r.png" crc="159246191" ref="profile-enter"/>
+    <file name="u6693-r_2x.png" crc="4053369965" ref="profile-enter"/>
+    <file name="u6696.png" crc="221404226" ref="profile-enter"/>
+    <file name="u6696_2x.png" crc="3793999858" ref="profile-enter"/>
+    <file name="u6696-r.png" crc="221404226" ref="profile-enter"/>
+    <file name="u6696-r_2x.png" crc="3793999858" ref="profile-enter"/>
+    <file name="u6697.png" crc="3821624089" ref="profile-enter"/>
+    <file name="u6697_2x.png" crc="464504365" ref="profile-enter"/>
+    <file name="u6697-r.png" crc="3821624089" ref="profile-enter"/>
+    <file name="u6697-r_2x.png" crc="464504365" ref="profile-enter"/>
+    <file name="u6699.png" crc="3846996727" ref="profile-enter"/>
+    <file name="u6699_2x.png" crc="490159853" ref="profile-enter"/>
+    <file name="u6699-r.png" crc="3846996727" ref="profile-enter"/>
+    <file name="u6699-r_2x.png" crc="490159853" ref="profile-enter"/>
     <file name="u6388.png" crc="159246191" ref="register"/>
     <file name="u6388_2x.png" crc="4053369965" ref="register"/>
     <file name="u6388-r.png" crc="159246191" ref="register"/>
@@ -289,62 +330,38 @@
     <file name="u6398_2x.png" crc="184316576" ref="register"/>
     <file name="u6398-r.png" crc="4039232712" ref="register"/>
     <file name="u6398-r_2x.png" crc="184316576" ref="register"/>
-    <file name="u6616.png" crc="159246191" ref="pay"/>
-    <file name="u6616_2x.png" crc="4053369965" ref="pay"/>
-    <file name="u6616-r.png" crc="159246191" ref="pay"/>
-    <file name="u6616-r_2x.png" crc="4053369965" ref="pay"/>
-    <file name="u6619.png" crc="221404226" ref="pay"/>
-    <file name="u6619_2x.png" crc="3793999858" ref="pay"/>
-    <file name="u6619-r.png" crc="221404226" ref="pay"/>
-    <file name="u6619-r_2x.png" crc="3793999858" ref="pay"/>
-    <file name="u6620.png" crc="3821624089" ref="pay"/>
-    <file name="u6620_2x.png" crc="464504365" ref="pay"/>
-    <file name="u6620-r.png" crc="3821624089" ref="pay"/>
-    <file name="u6620-r_2x.png" crc="464504365" ref="pay"/>
-    <file name="u6622.png" crc="3846996727" ref="pay"/>
-    <file name="u6622_2x.png" crc="490159853" ref="pay"/>
-    <file name="u6622-r.png" crc="3846996727" ref="pay"/>
-    <file name="u6622-r_2x.png" crc="490159853" ref="pay"/>
-    <file name="u6625-4.png" crc="3834941257" ref="pay"/>
-    <file name="u6625-4_2x.png" crc="3979287977" ref="pay"/>
-    <file name="u6627-4.png" crc="79978282" ref="pay"/>
-    <file name="u6627-4_2x.png" crc="312632638" ref="pay"/>
-    <file name="u6628-4.png" crc="4105615718" ref="pay"/>
-    <file name="u6628-4_2x.png" crc="467369944" ref="pay"/>
-    <file name="u6629-5.png" crc="4111725274" ref="pay"/>
-    <file name="u6629-5_2x.png" crc="322105544" ref="pay"/>
-    <file name="u6632.png" crc="224344910" ref="pay"/>
-    <file name="u6632_2x.png" crc="290934992" ref="pay"/>
-    <file name="u6632-r.png" crc="224344910" ref="pay"/>
-    <file name="u6632-r_2x.png" crc="290934992" ref="pay"/>
-    <file name="u6693.png" crc="159246191" ref="profile"/>
-    <file name="u6693_2x.png" crc="4053369965" ref="profile"/>
-    <file name="u6693-r.png" crc="159246191" ref="profile"/>
-    <file name="u6693-r_2x.png" crc="4053369965" ref="profile"/>
-    <file name="u6696.png" crc="221404226" ref="profile"/>
-    <file name="u6696_2x.png" crc="3793999858" ref="profile"/>
-    <file name="u6696-r.png" crc="221404226" ref="profile"/>
-    <file name="u6696-r_2x.png" crc="3793999858" ref="profile"/>
-    <file name="u6697.png" crc="3821624089" ref="profile"/>
-    <file name="u6697_2x.png" crc="464504365" ref="profile"/>
-    <file name="u6697-r.png" crc="3821624089" ref="profile"/>
-    <file name="u6697-r_2x.png" crc="464504365" ref="profile"/>
-    <file name="u6699.png" crc="3846996727" ref="profile"/>
-    <file name="u6699_2x.png" crc="490159853" ref="profile"/>
-    <file name="u6699-r.png" crc="3846996727" ref="profile"/>
-    <file name="u6699-r_2x.png" crc="490159853" ref="profile"/>
-    <file name="u6846.png" crc="159246191" ref="eth---eos-bot"/>
-    <file name="u6846_2x.png" crc="4053369965" ref="eth---eos-bot"/>
-    <file name="u6846-r.png" crc="159246191" ref="eth---eos-bot"/>
-    <file name="u6846-r_2x.png" crc="4053369965" ref="eth---eos-bot"/>
-    <file name="u6860.png" crc="221404226" ref="eth---eos-bot"/>
-    <file name="u6860_2x.png" crc="3793999858" ref="eth---eos-bot"/>
-    <file name="u6860-r.png" crc="221404226" ref="eth---eos-bot"/>
-    <file name="u6860-r_2x.png" crc="3793999858" ref="eth---eos-bot"/>
-    <file name="u6873.png" crc="3821624089" ref="eth---eos-bot"/>
-    <file name="u6873_2x.png" crc="464504365" ref="eth---eos-bot"/>
-    <file name="u6873-r.png" crc="3821624089" ref="eth---eos-bot"/>
-    <file name="u6873-r_2x.png" crc="464504365" ref="eth---eos-bot"/>
+    <file name="u6616.png" crc="4138045278" ref="pay-enter"/>
+    <file name="u6616_2x.png" crc="39289818" ref="pay-enter"/>
+    <file name="u6616-r.png" crc="4138045278" ref="pay-enter"/>
+    <file name="u6616-r_2x.png" crc="39289818" ref="pay-enter"/>
+    <file name="u6619.png" crc="221404226" ref="pay-enter"/>
+    <file name="u6619_2x.png" crc="3793999858" ref="pay-enter"/>
+    <file name="u6619-r.png" crc="221404226" ref="pay-enter"/>
+    <file name="u6619-r_2x.png" crc="3793999858" ref="pay-enter"/>
+    <file name="u6620.png" crc="3821624089" ref="pay-enter"/>
+    <file name="u6620_2x.png" crc="464504365" ref="pay-enter"/>
+    <file name="u6620-r.png" crc="3821624089" ref="pay-enter"/>
+    <file name="u6620-r_2x.png" crc="464504365" ref="pay-enter"/>
+    <file name="u6625-4.png" crc="3834941257" ref="pay-enter"/>
+    <file name="u6625-4_2x.png" crc="3979287977" ref="pay-enter"/>
+    <file name="u6629-5.png" crc="4111725274" ref="pay-enter"/>
+    <file name="u6629-5_2x.png" crc="322105544" ref="pay-enter"/>
+    <file name="u6632.png" crc="224344910" ref="pay-enter"/>
+    <file name="u6632_2x.png" crc="290934992" ref="pay-enter"/>
+    <file name="u6632-r.png" crc="224344910" ref="pay-enter"/>
+    <file name="u6632-r_2x.png" crc="290934992" ref="pay-enter"/>
+    <file name="u6846_states.png" crc="159246191" ref="eth---eos-bot"/>
+    <file name="u6846_states_2x.png" crc="4053369965" ref="eth---eos-bot"/>
+    <file name="u6846_states-r.png" crc="159246191" ref="eth---eos-bot"/>
+    <file name="u6846_states-r_2x.png" crc="4053369965" ref="eth---eos-bot"/>
+    <file name="u6860_states.png" crc="221404226" ref="eth---eos-bot"/>
+    <file name="u6860_states_2x.png" crc="3793999858" ref="eth---eos-bot"/>
+    <file name="u6860_states-r.png" crc="221404226" ref="eth---eos-bot"/>
+    <file name="u6860_states-r_2x.png" crc="3793999858" ref="eth---eos-bot"/>
+    <file name="u6873_states.png" crc="3821624089" ref="eth---eos-bot"/>
+    <file name="u6873_states_2x.png" crc="464504365" ref="eth---eos-bot"/>
+    <file name="u6873_states-r.png" crc="3821624089" ref="eth---eos-bot"/>
+    <file name="u6873_states-r_2x.png" crc="464504365" ref="eth---eos-bot"/>
     <file name="u6843.png" crc="3846996727" ref="eth---eos-bot"/>
     <file name="u6843_2x.png" crc="490159853" ref="eth---eos-bot"/>
     <file name="u6843-r.png" crc="3846996727" ref="eth---eos-bot"/>
@@ -391,12 +408,208 @@
     <file name="u6851-4_2x.png" crc="3980190801" ref="eth---eos-bot"/>
     <file name="u6854-4.png" crc="3836398114" ref="eth---eos-bot"/>
     <file name="u6854-4_2x.png" crc="248123201" ref="eth---eos-bot"/>
+    <file name="u7687-4.png" crc="324358005" ref="eth-bot-enter"/>
+    <file name="u7687-4_2x.png" crc="3914541007" ref="eth-bot-enter"/>
+    <file name="u7676.png" crc="531944814" ref="eth-bot-enter"/>
+    <file name="u7676_2x.png" crc="4174313757" ref="eth-bot-enter"/>
+    <file name="u7676-r.png" crc="531944814" ref="eth-bot-enter"/>
+    <file name="u7676-r_2x.png" crc="4174313757" ref="eth-bot-enter"/>
+    <file name="u7673-4.png" crc="524525291" ref="eth-bot-enter"/>
+    <file name="u7673-4_2x.png" crc="146832436" ref="eth-bot-enter"/>
+    <file name="u7668-4.png" crc="201612187" ref="eth-bot-enter"/>
+    <file name="u7668-4_2x.png" crc="264245912" ref="eth-bot-enter"/>
+    <file name="u7680-4.png" crc="75725537" ref="eth-bot-enter"/>
+    <file name="u7680-4_2x.png" crc="4161976991" ref="eth-bot-enter"/>
+    <file name="u7694-4.png" crc="4180063506" ref="eth-bot-enter"/>
+    <file name="u7694-4_2x.png" crc="4000660182" ref="eth-bot-enter"/>
+    <file name="u7690-4.png" crc="3793178042" ref="eth-bot-enter"/>
+    <file name="u7690-4_2x.png" crc="4186093761" ref="eth-bot-enter"/>
+    <file name="u7664-4.png" crc="3888164317" ref="eth-bot-enter"/>
+    <file name="u7664-4_2x.png" crc="74486373" ref="eth-bot-enter"/>
+    <file name="u7699-4.png" crc="3989566489" ref="eth-bot-enter"/>
+    <file name="u7699-4_2x.png" crc="3932202285" ref="eth-bot-enter"/>
+    <file name="u7691-4.png" crc="361072854" ref="eth-bot-enter"/>
+    <file name="u7691-4_2x.png" crc="54901933" ref="eth-bot-enter"/>
+    <file name="u7677-4.png" crc="475618429" ref="eth-bot-enter"/>
+    <file name="u7677-4_2x.png" crc="258020087" ref="eth-bot-enter"/>
+    <file name="u7688-4.png" crc="36747560" ref="eth-bot-enter"/>
+    <file name="u7688-4_2x.png" crc="294513860" ref="eth-bot-enter"/>
+    <file name="u7686.png" crc="531944814" ref="eth-bot-enter"/>
+    <file name="u7686_2x.png" crc="4174313757" ref="eth-bot-enter"/>
+    <file name="u7686-r.png" crc="531944814" ref="eth-bot-enter"/>
+    <file name="u7686-r_2x.png" crc="4174313757" ref="eth-bot-enter"/>
+    <file name="u7667-4.png" crc="3932661221" ref="eth-bot-enter"/>
+    <file name="u7667-4_2x.png" crc="4089036009" ref="eth-bot-enter"/>
+    <file name="u7678-4.png" crc="4077483498" ref="eth-bot-enter"/>
+    <file name="u7678-4_2x.png" crc="485374992" ref="eth-bot-enter"/>
+    <file name="u7683-4.png" crc="3885706876" ref="eth-bot-enter"/>
+    <file name="u7683-4_2x.png" crc="71093725" ref="eth-bot-enter"/>
+    <file name="u7693-4.png" crc="414530791" ref="eth-bot-enter"/>
+    <file name="u7693-4_2x.png" crc="149680540" ref="eth-bot-enter"/>
+    <file name="u7663-4.png" crc="4099626798" ref="eth-bot-enter"/>
+    <file name="u7663-4_2x.png" crc="3980190801" ref="eth-bot-enter"/>
+    <file name="u7674-4.png" crc="3836398114" ref="eth-bot-enter"/>
+    <file name="u7674-4_2x.png" crc="248123201" ref="eth-bot-enter"/>
+    <file name="u7798-4.png" crc="4066756222" ref="eth---eos-bot-enter"/>
+    <file name="u7798-4_2x.png" crc="203940598" ref="eth---eos-bot-enter"/>
+    <file name="u7797.png" crc="531944814" ref="eth---eos-bot-enter"/>
+    <file name="u7797_2x.png" crc="4174313757" ref="eth---eos-bot-enter"/>
+    <file name="u7797-r.png" crc="531944814" ref="eth---eos-bot-enter"/>
+    <file name="u7797-r_2x.png" crc="4174313757" ref="eth---eos-bot-enter"/>
+    <file name="u7808-4.png" crc="524525291" ref="eth---eos-bot-enter"/>
+    <file name="u7808-4_2x.png" crc="146832436" ref="eth---eos-bot-enter"/>
+    <file name="u7784-4.png" crc="201612187" ref="eth---eos-bot-enter"/>
+    <file name="u7784-4_2x.png" crc="264245912" ref="eth---eos-bot-enter"/>
+    <file name="u7805-4.png" crc="75725537" ref="eth---eos-bot-enter"/>
+    <file name="u7805-4_2x.png" crc="4161976991" ref="eth---eos-bot-enter"/>
+    <file name="u7775-4.png" crc="4180063506" ref="eth---eos-bot-enter"/>
+    <file name="u7775-4_2x.png" crc="4000660182" ref="eth---eos-bot-enter"/>
+    <file name="u7806-4.png" crc="3793178042" ref="eth---eos-bot-enter"/>
+    <file name="u7806-4_2x.png" crc="4186093761" ref="eth---eos-bot-enter"/>
+    <file name="u7804-4.png" crc="3888164317" ref="eth---eos-bot-enter"/>
+    <file name="u7804-4_2x.png" crc="74486373" ref="eth---eos-bot-enter"/>
+    <file name="u7774-4.png" crc="3989566489" ref="eth---eos-bot-enter"/>
+    <file name="u7774-4_2x.png" crc="3932202285" ref="eth---eos-bot-enter"/>
+    <file name="u7788-4.png" crc="361072854" ref="eth---eos-bot-enter"/>
+    <file name="u7788-4_2x.png" crc="54901933" ref="eth---eos-bot-enter"/>
+    <file name="u7779-4.png" crc="475618429" ref="eth---eos-bot-enter"/>
+    <file name="u7779-4_2x.png" crc="258020087" ref="eth---eos-bot-enter"/>
+    <file name="u7793-4.png" crc="4145492182" ref="eth---eos-bot-enter"/>
+    <file name="u7793-4_2x.png" crc="223621134" ref="eth---eos-bot-enter"/>
+    <file name="u7801.png" crc="531944814" ref="eth---eos-bot-enter"/>
+    <file name="u7801_2x.png" crc="4174313757" ref="eth---eos-bot-enter"/>
+    <file name="u7801-r.png" crc="531944814" ref="eth---eos-bot-enter"/>
+    <file name="u7801-r_2x.png" crc="4174313757" ref="eth---eos-bot-enter"/>
+    <file name="u7802-4.png" crc="3932661221" ref="eth---eos-bot-enter"/>
+    <file name="u7802-4_2x.png" crc="4089036009" ref="eth---eos-bot-enter"/>
+    <file name="u7809-4.png" crc="4077483498" ref="eth---eos-bot-enter"/>
+    <file name="u7809-4_2x.png" crc="485374992" ref="eth---eos-bot-enter"/>
+    <file name="u7783-4.png" crc="3885706876" ref="eth---eos-bot-enter"/>
+    <file name="u7783-4_2x.png" crc="71093725" ref="eth---eos-bot-enter"/>
+    <file name="u7799-4.png" crc="414530791" ref="eth---eos-bot-enter"/>
+    <file name="u7799-4_2x.png" crc="149680540" ref="eth---eos-bot-enter"/>
+    <file name="u7782-4.png" crc="4099626798" ref="eth---eos-bot-enter"/>
+    <file name="u7782-4_2x.png" crc="3980190801" ref="eth---eos-bot-enter"/>
+    <file name="u7807-4.png" crc="3836398114" ref="eth---eos-bot-enter"/>
+    <file name="u7807-4_2x.png" crc="248123201" ref="eth---eos-bot-enter"/>
+    <file name="hilbots-enter-favicon.ico" crc="4099569896" ref="hilbots-enter"/>
+    <file name="u8010-6.png" crc="4072257917" ref="hilbots-enter"/>
+    <file name="u8010-6_2x.png" crc="4136025737" ref="hilbots-enter"/>
+    <file name="u8039.png" crc="290482208" ref="hilbots-enter"/>
+    <file name="u8039_2x.png" crc="3956391947" ref="hilbots-enter"/>
+    <file name="u8039-r.png" crc="290482208" ref="hilbots-enter"/>
+    <file name="u8039-r_2x.png" crc="3956391947" ref="hilbots-enter"/>
+    <file name="u8034-4.png" crc="4173512825" ref="hilbots-enter"/>
+    <file name="u8034-4_2x.png" crc="204801394" ref="hilbots-enter"/>
+    <file name="u8023-4.png" crc="3892242738" ref="hilbots-enter"/>
+    <file name="u8023-4_2x.png" crc="4025398338" ref="hilbots-enter"/>
+    <file name="u8027-4.png" crc="3827423012" ref="hilbots-enter"/>
+    <file name="u8027-4_2x.png" crc="4130197110" ref="hilbots-enter"/>
+    <file name="u8059-4.png" crc="384411561" ref="hilbots-enter"/>
+    <file name="u8059-4_2x.png" crc="105767447" ref="hilbots-enter"/>
+    <file name="u8080-4.png" crc="4136286117" ref="hilbots-enter"/>
+    <file name="u8080-4_2x.png" crc="462570324" ref="hilbots-enter"/>
+    <file name="u8084-4.png" crc="120955638" ref="hilbots-enter"/>
+    <file name="u8084-4_2x.png" crc="94209461" ref="hilbots-enter"/>
+    <file name="u8042-4.png" crc="402251610" ref="hilbots-enter"/>
+    <file name="u8042-4_2x.png" crc="4027735007" ref="hilbots-enter"/>
+    <file name="u8052-4.png" crc="217439892" ref="hilbots-enter"/>
+    <file name="u8052-4_2x.png" crc="433104684" ref="hilbots-enter"/>
+    <file name="u8028-4.png" crc="260968392" ref="hilbots-enter"/>
+    <file name="u8028-4_2x.png" crc="4215643921" ref="hilbots-enter"/>
+    <file name="u8033-4.png" crc="4072792392" ref="hilbots-enter"/>
+    <file name="u8033-4_2x.png" crc="4117212358" ref="hilbots-enter"/>
+    <file name="u8020-4.png" crc="3910957274" ref="hilbots-enter"/>
+    <file name="u8020-4_2x.png" crc="3923506998" ref="hilbots-enter"/>
+    <file name="u8024-4.png" crc="4174024484" ref="hilbots-enter"/>
+    <file name="u8024-4_2x.png" crc="3792992790" ref="hilbots-enter"/>
+    <file name="u8071-4.png" crc="149467416" ref="hilbots-enter"/>
+    <file name="u8071-4_2x.png" crc="3820278854" ref="hilbots-enter"/>
+    <file name="u8083-8.png" crc="4123629157" ref="hilbots-enter"/>
+    <file name="u8083-8_2x.png" crc="3761659889" ref="hilbots-enter"/>
+    <file name="u8030-5.png" crc="132529505" ref="hilbots-enter"/>
+    <file name="u8030-5_2x.png" crc="220272928" ref="hilbots-enter"/>
+    <file name="u8036-4.png" crc="3998109232" ref="hilbots-enter"/>
+    <file name="u8036-4_2x.png" crc="319753084" ref="hilbots-enter"/>
+    <file name="u8047-4.png" crc="312902905" ref="hilbots-enter"/>
+    <file name="u8047-4_2x.png" crc="3775150598" ref="hilbots-enter"/>
+    <file name="u8058-4.png" crc="90061653" ref="hilbots-enter"/>
+    <file name="u8058-4_2x.png" crc="4024608889" ref="hilbots-enter"/>
+    <file name="u8068-6.png" crc="4004477928" ref="hilbots-enter"/>
+    <file name="u8068-6_2x.png" crc="3902807928" ref="hilbots-enter"/>
+    <file name="u8077-6.png" crc="306270550" ref="hilbots-enter"/>
+    <file name="u8077-6_2x.png" crc="148928365" ref="hilbots-enter"/>
+    <file name="u8050.png" crc="290482208" ref="hilbots-enter"/>
+    <file name="u8050_2x.png" crc="3956391947" ref="hilbots-enter"/>
+    <file name="u8050-r.png" crc="290482208" ref="hilbots-enter"/>
+    <file name="u8050-r_2x.png" crc="3956391947" ref="hilbots-enter"/>
+    <file name="u8025-4.png" crc="328149634" ref="hilbots-enter"/>
+    <file name="u8025-4_2x.png" crc="281654491" ref="hilbots-enter"/>
+    <file name="u8029-4.png" crc="404731472" ref="hilbots-enter"/>
+    <file name="u8029-4_2x.png" crc="15952950" ref="hilbots-enter"/>
+    <file name="u8035-4.png" crc="3863420012" ref="hilbots-enter"/>
+    <file name="u8035-4_2x.png" crc="308477622" ref="hilbots-enter"/>
+    <file name="u8045-4.png" crc="482173864" ref="hilbots-enter"/>
+    <file name="u8045-4_2x.png" crc="308685670" ref="hilbots-enter"/>
+    <file name="u8055-4.png" crc="4242930609" ref="hilbots-enter"/>
+    <file name="u8055-4_2x.png" crc="3839582464" ref="hilbots-enter"/>
+    <file name="u8067-4.png" crc="26316599" ref="hilbots-enter"/>
+    <file name="u8067-4_2x.png" crc="4107171927" ref="hilbots-enter"/>
+    <file name="u8076-4.png" crc="4092324779" ref="hilbots-enter"/>
+    <file name="u8076-4_2x.png" crc="36751978" ref="hilbots-enter"/>
+    <file name="u8114.png" crc="4138045278" ref="pay-enter"/>
+    <file name="u8114_2x.png" crc="39289818" ref="pay-enter"/>
+    <file name="u8114-r.png" crc="4138045278" ref="pay-enter"/>
+    <file name="u8114-r_2x.png" crc="39289818" ref="pay-enter"/>
+    <file name="u7684_states.png" crc="221404226" ref="eth-bot-enter"/>
+    <file name="u7684_states_2x.png" crc="3793999858" ref="eth-bot-enter"/>
+    <file name="u7684_states-r.png" crc="221404226" ref="eth-bot-enter"/>
+    <file name="u7684_states-r_2x.png" crc="3793999858" ref="eth-bot-enter"/>
+    <file name="u7695_states.png" crc="3821624089" ref="eth-bot-enter"/>
+    <file name="u7695_states_2x.png" crc="464504365" ref="eth-bot-enter"/>
+    <file name="u7695_states-r.png" crc="3821624089" ref="eth-bot-enter"/>
+    <file name="u7695_states-r_2x.png" crc="464504365" ref="eth-bot-enter"/>
+    <file name="u8123.png" crc="4138045278" ref="eth-bot-enter"/>
+    <file name="u8123_2x.png" crc="39289818" ref="eth-bot-enter"/>
+    <file name="u8123-r.png" crc="4138045278" ref="eth-bot-enter"/>
+    <file name="u8123-r_2x.png" crc="39289818" ref="eth-bot-enter"/>
+    <file name="u7789_states.png" crc="221404226" ref="eth---eos-bot-enter"/>
+    <file name="u7789_states_2x.png" crc="3793999858" ref="eth---eos-bot-enter"/>
+    <file name="u7789_states-r.png" crc="221404226" ref="eth---eos-bot-enter"/>
+    <file name="u7789_states-r_2x.png" crc="3793999858" ref="eth---eos-bot-enter"/>
+    <file name="u7794_states.png" crc="3821624089" ref="eth---eos-bot-enter"/>
+    <file name="u7794_states_2x.png" crc="464504365" ref="eth---eos-bot-enter"/>
+    <file name="u7794_states-r.png" crc="3821624089" ref="eth---eos-bot-enter"/>
+    <file name="u7794_states-r_2x.png" crc="464504365" ref="eth---eos-bot-enter"/>
+    <file name="u8120.png" crc="4138045278" ref="eth---eos-bot-enter"/>
+    <file name="u8120_2x.png" crc="39289818" ref="eth---eos-bot-enter"/>
+    <file name="u8120-r.png" crc="4138045278" ref="eth---eos-bot-enter"/>
+    <file name="u8120-r_2x.png" crc="39289818" ref="eth---eos-bot-enter"/>
+    <file name="u8117.png" crc="4138045278" ref="eth---eos-bot-enter"/>
+    <file name="u8117_2x.png" crc="39289818" ref="eth---eos-bot-enter"/>
+    <file name="u8117-r.png" crc="4138045278" ref="eth---eos-bot-enter"/>
+    <file name="u8117-r_2x.png" crc="39289818" ref="eth---eos-bot-enter"/>
+    <file name="u8085_states.png" crc="221404226" ref="hilbots-enter"/>
+    <file name="u8085_states_2x.png" crc="3793999858" ref="hilbots-enter"/>
+    <file name="u8085_states-r.png" crc="221404226" ref="hilbots-enter"/>
+    <file name="u8085_states-r_2x.png" crc="3793999858" ref="hilbots-enter"/>
+    <file name="u8057_states.png" crc="3821624089" ref="hilbots-enter"/>
+    <file name="u8057_states_2x.png" crc="464504365" ref="hilbots-enter"/>
+    <file name="u8057_states-r.png" crc="3821624089" ref="hilbots-enter"/>
+    <file name="u8057_states-r_2x.png" crc="464504365" ref="hilbots-enter"/>
+    <file name="u8126.png" crc="4138045278" ref="hilbots-enter"/>
+    <file name="u8126_2x.png" crc="39289818" ref="hilbots-enter"/>
+    <file name="u8126-r.png" crc="4138045278" ref="hilbots-enter"/>
+    <file name="u8126-r_2x.png" crc="39289818" ref="hilbots-enter"/>
   </folder>
-  <file name="index.html" crc="406860048" seo="true" mt="1615480612790" redirect="true"/>
-  <file name="eth-bot.html" crc="3813038940" seo="true" mt="1615481656710" redirect="true"/>
-  <file name="eth---eos-bot.html" crc="4095650805" seo="true" mt="1615481878006" redirect="true"/>
+  <file name="index.html" crc="3829990308" seo="true" mt="1615499348754" redirect="true"/>
+  <file name="eth-bot.html" crc="4141927931" seo="true" mt="1615499389521" redirect="true"/>
   <file name="login.html" crc="3903345679" seo="true" mt="1615314979663" redirect="true"/>
+  <file name="profile-enter.html" crc="3843949174" seo="true" mt="1615499086603" redirect="true"/>
   <file name="register.html" crc="74023182" seo="true" mt="1615315302848" redirect="true"/>
-  <file name="profile.html" crc="476164896" seo="true" mt="1615494947359" redirect="true"/>
-  <file name="pay.html" crc="3935878048" seo="true" mt="1615320264185" redirect="true"/>
+  <file name="pay-enter.html" crc="389018863" seo="true" mt="1615500740385" redirect="true"/>
+  <file name="eth---eos-bot.html" crc="3769430422" seo="true" mt="1615499440505" redirect="true"/>
+  <file name="eth-bot-enter.html" crc="4240087011" seo="true" mt="1615501015422" redirect="true"/>
+  <file name="eth---eos-bot-enter.html" crc="518277235" seo="true" mt="1615501031308" redirect="true"/>
+  <file name="hilbots-enter.html" crc="4065514114" seo="true" mt="1615500962401" redirect="true"/>
 </manifest>
